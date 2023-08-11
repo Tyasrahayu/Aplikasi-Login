@@ -1,11 +1,4 @@
-* Membuat variabel expectedEmail untuk menyimpan informasi email sementara.
- * @constant {string}
- */
-const expectedEmail = 'admin@dicoding.com';
- 
- 
-/** 
- * Membuat variabel expectedPassword untuk menyimpan informasi password sementara.
+  * Membuat variabel expectedPassword untuk menyimpan informasi password sementara.
  * @constant {string}
  */
 const expectedPassword = 'superpassword'
